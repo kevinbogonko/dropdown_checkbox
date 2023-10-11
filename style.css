@@ -13,6 +13,7 @@ body {
 }
 
 .dropdown {
+  /*Here set youur prefered maximum width of dropdown*/
   position: relative;
   font-size: 14px;
   color: #333;
